@@ -1,0 +1,8 @@
+able to get 20 TPS for 30 Users if i set duration more than one hour . 
+able to run only in GUI mode. 
+
+in non gui mode its taking forever to even start first thresd. 
+
+for a duration of 10 seconds non gui mode works fine . 
+
+Also getting more of Server Error in requests.
